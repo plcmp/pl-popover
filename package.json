@@ -1,0 +1,14 @@
+{
+    "name": "@plcmp/pl-popover",
+    "version": "1.0.0",
+    "description": "Popover component",
+    "main": "pl-popover.js",
+    "repository": {
+        "url": "https://github.com/plcmp/pl-popover.git"
+    },
+    "license": "MIT",
+    "type": "module",
+    "dependencies": {
+        "polylib": "^1.0.0"
+    }
+}
